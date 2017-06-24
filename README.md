@@ -6,5 +6,6 @@ pymatrixmod has functions for transposing matrix, multiplying two matrices, rais
 pymatrixmod also has 4 functions for building an observability matrix, controllability matrix and for checking if the system is observable and controllable. But probably you'll not need this functions as they usually used in control theory.
 
 ## How to setup
-```pip install pymatrixmod
+```
+$ pip install pymatrixmod
 ```
